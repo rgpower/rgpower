@@ -2,8 +2,6 @@
 
 I am an accomplished senior systems developer with over 20 years experience building well-architected IT solutions. With core values of compassion, curiosity, and transparency, and a contagious can-do attitude, always ready to solve tough problems, inspire teams, and lead by example.
 
-Lately, I have been using AWS and Google Cloud Services to provide an awesome experience for our [Celtx](https://www.celtx.com) fans!
-
 ### News
 
 I am now DevOps Leader (DOL)® certified!
