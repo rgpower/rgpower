@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-I am an accomplished senior systems developer with over 20 years experience building well-architected IT solutions. With core values of compassion, curiosity, and transparency, and a contagious can-do attitude, always ready to solve tough problems, inspire teams, and lead by example.
+Check out my [gists](https://gist.github.com/rgpower).  You might find them interesting for cloud-automation tasks and other random things.
+
+My job title is Cloud Architect, but I've been in the business for over 25 years.  The first IT task I recall performing is setting up Slackware Linux (in 1996) to host a  public-facing webserver for our Physics Lab.  You can still see that [old website using the Wayback Machine](https://web.archive.org/web/19970425132506/http://rupert.physics.mun.ca/). I imagine that you could measure the number of public-facing webservers at that time to be measured in the 1000s, quite a change from today where there are are [over 10,000 new websites created every day](https://siteefy.com/how-many-websites-are-there).
+
+Having used archie,gopher,usenet and more, after encountering the web for the first time, I could see even then that the effect on the world would be dramatic.  Shortly after building that webserver, I applied for what was likely one of the very few web-specific jobs in Canada.  I was responsible for the setup and maintenance of the [Candadian Technology Network's first website](https://web.archive.org/web/19990117073758/http://ctn.nrc.ca/ctn/news.html), hosted on a SUN Microsystems UltraSPARC.
+
+Fast-forward to 25 years later, I am now working in an R&D Department at CBN where I am a Cloud Architect.  Before that I worked at Celtx for 10 years as a Senior Systems Programmer and jack of all trades.  I am very proud of my work at Celtx, and I think the founders would agree that I played a key role in both the success of the product from a cloud and DevOps perspective, and even played an important role in the cloud due-diligence related to their [recent acquisition by Backlight](https://www.celtx.com/news/celtx-backlight-acquisition.html).
+
+Other interesting places I worked included Verafin ([recently acquired by NASDAQ](https://verafin.com/news/nasdaq-completes-acquisition-of-verafin/)), where I used AI/ML to build fraud detection analytics for their FRAMLx solution, and Collaborative Network Technologies (ColabNet) for 10 years, where I was a co-owner for most of that.  At ColabNet we worked on so many cutting edge research projects that ranged from [Satellite Bandwidth Reservation Booking system](https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Reserve_your_own_bandwidth), [Ship-to-shore learning management systems](https://artes.esa.int/news/project-tests-satellite-applications-sea), and even a [CDPD-based mobile home care systems](https://prism.ucalgary.ca/bitstream/handle/1880/43121/CST%202001.pdf?sequence=1&isAllowed=y).
+
+I am equally comfortable at all stack levels, from 802.1Q VLAN encapsulation to VMs, SQL, noSQL, Containers, Cloud Functions, Cloud Messenging, IAM, Otel spans, and more. I have built production systems using Java, python, C++, C, Javascript, T-SQL, PL/SQL, OpenAPI, and more.
+
 
 ### News
 
