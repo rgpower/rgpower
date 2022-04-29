@@ -8,7 +8,7 @@ Having used archie, gopher, usenet and more, after encountering the web for the 
 
 Fast-forward to 25 years later, I am now working in an R&D Department at CBN using Azure Cloud.  
 
-Other interesting places I worked included:
+Other interesting places I worked include:
 
 * Celtx, where I worked for 10 years as a Senior Systems Programmer and jack of all trades using AWS and Google Cloud Platform.  I am very proud of my work at Celtx, and I think the founders would agree that I played a key role in both the success of the product from a cloud and DevOps perspective, and even played an important role in the cloud due-diligence related to their [recent acquisition by Backlight](https://www.celtx.com/news/celtx-backlight-acquisition.html).
 * Verafin ([recently acquired by NASDAQ](https://verafin.com/news/nasdaq-completes-acquisition-of-verafin/)), where I used AI/ML to build fraud detection analytics for their FRAMLx solution
