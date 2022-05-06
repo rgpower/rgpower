@@ -20,7 +20,7 @@ Other interesting places I worked include:
 
 In 1996, after learning of the web for the first time, I built and deployed [likely one of the very first public facing WWW Servers at Memorial University](https://web.archive.org/web/19970425132506/http://rupert.physics.mun.ca/). Back then, the number of active websites were measured in the 1000s, whereas now [over 10,000 new websites created every day](https://siteefy.com/how-many-websites-are-there).
 
-Shortly after my web server deployment, I won a job competition posted on USENET, and I found myself responsible for the setup and maintenance of the [Candadian Technology Network's first website](https://web.archive.org/web/19990117073758/http://ctn.nrc.ca/ctn/news.html), hosted on a SUN Microsystems UltraSPARC.  It was there, under a very talented DBA that I learned how to program, write CGI scripts, and using these scripts to integrate third-party systems (like Oracle and c:Mail), back before PCs even had TCP/IP stacks (remember Novell IPX/SPX, token ring?)
+Shortly after my web server deployment, I won a job competition posted on USENET, and I found myself responsible for the setup and maintenance of the [Candadian Technology Network's first website](https://web.archive.org/web/19990117073758/http://ctn.nrc.ca/ctn/news.html), hosted on a SUN Microsystems UltraSPARC.  It was there, under a very talented DBA that I learned how to program, write CGI scripts, and use these scripts to integrate third-party systems (like Oracle and c:Mail), back before PCs even had TCP/IP stacks (remember Novell IPX/SPX, token ring?)
 
 
 
