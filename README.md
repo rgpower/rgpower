@@ -16,7 +16,7 @@ Other interesting places I worked include:
   * [Ship-to-shore learning management system](https://artes.esa.int/news/project-tests-satellite-applications-sea)
   * [CDPD-based mobile home care system](https://prism.ucalgary.ca/bitstream/handle/1880/43121/CST%202001.pdf?sequence=1&isAllowed=y).
 
-In addtion to cutting edge research projects, I was instrumental in helping several multinational businesses in the Atlantic Provinces acheive their technical goals:
+In addtion to cutting edge research projects, I was instrumental in helping several multinational businesses in the Atlantic Provinces achieve their technical goals:
  * [Oracle Corporation - I represented Consilient in Redwood City, CA as principal integration architect on BlackBerry integration with Oracle Collaboration Suite](https://www.itworldcanada.com/article/oracle-e-mail-product-gets-blackberry-support/21608)
  * Michelin Canada - I was laboratory instructor for J2EE training in WebSphere technologies and tutored local Nova Scotia staff on Michelin's own "Xnet Framework".
  * SUN Microsystems - both as a subcontractor for J2EE/ANTLR work, and a presenter for J2EE tutorials.
