@@ -1,10 +1,23 @@
 ### Hi there 👋
 
+I work at CBN in R&D using Azure Cloud!  My job title is Cloud Architect, but I've been in the business for over 25 years.  I am equally comfortable at all stack levels, from 802.1Q VLAN encapsulation to VMs, SQL, noSQL, Containers, Cloud Functions, Cloud Messenging, IAM, Otel spans, and more. I have built production systems using Java, python, C++, C, Javascript, T-SQL, PL/SQL, OpenAPI, and more.
+
+### News
+
+Here are my most recent credentials.
+
+| Credential  | See my full credential here |
+| ------------- | ------------- |
+| <img alt="Certified Kubernetes Administrator" src="https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="200" />  | [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/94366cd8-ac07-40df-969e-5fd0504d06a9/public_url)  |
+| <img alt="DevOps Leader" src="DevOpsLeader.jpg" width="200"/>  | [DevOps Leader (DOL)®](DevOps_DOL_Certificate.pdf)  |
+
+
 ## Automation tasks and other snippets
 Check out my [gists](https://gist.github.com/rgpower).  You might find them interesting for cloud-automation tasks and other random things.
 
 ## Now
-I am now working at CBN in R&D using Azure Cloud!  My job title is Cloud Architect, but I've been in the business for over 25 years.  I am equally comfortable at all stack levels, from 802.1Q VLAN encapsulation to VMs, SQL, noSQL, Containers, Cloud Functions, Cloud Messenging, IAM, Otel spans, and more. I have built production systems using Java, python, C++, C, Javascript, T-SQL, PL/SQL, OpenAPI, and more.
+
+
 
 ## The Past
 Other interesting places I worked include:
@@ -29,13 +42,7 @@ Shortly after my web server deployment, I won a job competition posted on USENET
 
 
 
-### News
 
-I am now DevOps Leader (DOL)® certified!
-
-<img alt="DevOps Leader" src="DevOpsLeader.jpg" width="200"/>
-
-See my full credential here: [DevOps Leader (DOL)®](DevOps_DOL_Certificate.pdf)
 
 <!--
 **rgpower/rgpower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
