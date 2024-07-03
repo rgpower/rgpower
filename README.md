@@ -8,6 +8,7 @@ Here are my most recent credentials.
 
 | Credential  | See my full credential here |
 | ------------- | ------------- |
+| <img alt="Certified Kubernetes Administrator" src="https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="200" />  | [Certified Kubernetes Security Specialist (CKS)](https://www.credly.com/badges/13074eb9-58d6-4f32-8d84-94651aa02fb3/public_url)  |
 | <img alt="Certified Kubernetes Administrator" src="https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="200" />  | [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/94366cd8-ac07-40df-969e-5fd0504d06a9/public_url)  |
 | <img alt="DevOps Leader" src="DevOpsLeader.jpg" width="200"/>  | [DevOps Leader (DOL)®](DevOps_DOL_Certificate.pdf)  |
 
