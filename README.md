@@ -23,7 +23,7 @@ Other interesting places I worked include:
 * [Verafin](https://verafin.com/) ([recently acquired by NASDAQ](https://verafin.com/news/nasdaq-completes-acquisition-of-verafin/)), where I used AI/ML to build fraud detection analytics for their FRAMLx solution
 * [Collaborative Network Technologies (ColabNet)](https://web.archive.org/web/20010603075603/http://www.colabnet.com/news.htm) for 10 years, where I was a co-owner for most of that.  I was so proud of the work we did at Celtx; so many cutting edge research projects, for example:
   * [Satellite Bandwidth Reservation Booking system](https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Reserve_your_own_bandwidth)
-  * [Ship-to-shore learning management system](https://artes.esa.int/news/project-tests-satellite-applications-sea)
+  * [Ship-to-shore learning management system](https://www.esa.int/articles/access-to-e-commerce-applications-at-sea#:~:text=Learners%20at%20Sea)
   * [CDPD-based mobile home care system](https://prism.ucalgary.ca/bitstream/handle/1880/43121/CST%202001.pdf?sequence=1&isAllowed=y).
 
 In addtion to cutting edge research projects, I was instrumental in helping several multinational businesses in the Atlantic Provinces achieve their technical goals:
