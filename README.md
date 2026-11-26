@@ -16,10 +16,6 @@ Here are my most recent credentials.
 ## Automation tasks and other snippets
 Check out my [gists](https://gist.github.com/rgpower).  You might find them interesting for cloud-automation tasks and other random things.
 
-## Now
-
-
-
 ## The Past
 Other interesting places I worked include:
 
